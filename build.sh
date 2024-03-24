@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
 
+PATH_TO_PROJECT = '/app'
+
+cd PATH_TO_PROJECT
+
 # Run composer install.
 composer install
 
